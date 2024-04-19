@@ -1,0 +1,37 @@
+body{
+    background: white;
+}
+:root {
+    --font-family: "Inter", sans-serif;
+  }
+.free{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 130%;
+    text-align: center;
+    color: #000;
+}
+.card{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 130%;
+    text-align: center;
+    color: #000;
+}
+.floor{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 130%;
+    text-align: center;
+    color: #000;
+}
+.buy{
+    border-radius: 8px;
+    padding: 10px 8px 10px 16px;
+    width: 376px;
+    height: 48px;
+    background: rgba(0, 0, 0, 0.56);
+}
