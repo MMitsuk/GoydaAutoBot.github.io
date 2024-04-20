@@ -1,4 +1,4 @@
-<head<!DOCTYPE html>>
+<head>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
