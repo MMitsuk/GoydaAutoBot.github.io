@@ -29,9 +29,6 @@ body{
     color: #000;
 }
 .buy{
-    position:relative;
-    left: 30%;
-    top: 50%;
     border-radius: 8px;
     padding: 10px 8px 10px 16px;
     width: 376px;
