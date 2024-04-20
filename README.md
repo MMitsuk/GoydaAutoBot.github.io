@@ -1,3 +1,4 @@
+"
 <head<!DOCTYPE html>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <link rel="stylesheet" href="styles.css">
@@ -14,3 +15,4 @@
       </svg>
       <button class = buy>Забронировать</button>
  </body>
+ "
